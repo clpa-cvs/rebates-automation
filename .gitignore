@@ -1,0 +1,4 @@
+*
+!*/
+!/src/com/cvs/caremark/rebates/automation/web/interaction/jsf/**
+!.gitignore
